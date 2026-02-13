@@ -42,3 +42,8 @@ section > div > p {
     unicode-bidi: isolate;
     margin-bottom: 1rem;
 }
+
+section > div > .card-body1 {
+    primary-color: var( --primary-color);
+
+}
