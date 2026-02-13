@@ -1,0 +1,44 @@
+:root {
+    --primary-color: #6F23FF;
+    --secondary-color: #3E396B;
+}
+
+#cardSection1 > div > h1 {
+    primary-color: var(--primary-color);
+    font-family: "Domine", sans-serif;
+
+}
+
+#cardSection1 > #card-body1 > div > p {
+    secondary-color: var(--primary-color);
+    font-family: "Montserrat", sans-serif;
+}
+
+section > div > div {
+    color: #3E396B;
+    font-weight: 700;
+    font-size: 2.25rem;
+    margin: .67em 0;
+    line-height: 1.5em;
+    font-family: " 36px Domine", sans-serif;
+    margin: 0px 0px 16px;
+    margin-bottom: 1rem;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+
+}
+
+section > div > p {
+    color: #061C3D;
+    font-family: " 20px Monserrat", sans-serif;
+    margin: 0px 0px 16px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+    margin-bottom: 1rem;
+}
